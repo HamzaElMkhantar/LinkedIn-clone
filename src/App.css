@@ -1,0 +1,11 @@
+.App{
+    background-color: #f3f2ee;
+    min-height: 100vh;
+}
+
+.app-body {
+    display: flex;
+    flex-direction: row;
+    /* flex: 1; */
+    padding: 70px 145px;
+}
